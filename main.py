@@ -8,7 +8,7 @@ CWD is a REJECTED grade run_completes.
 
 import os
 
-ENTRY = "My gym membership and I are in a toxic relationship — I pay $30 a month, it texts me 'we miss you,' and neither of us has seen the other since January."
+ENTRY = "My gym membership and I are in a toxic relationship — I pay $30 a month, it texts me 'we miss you,' and the only thing I've lifted all year is my wallet."
 
 
 def validate():
